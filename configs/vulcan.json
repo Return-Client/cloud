@@ -1,0 +1,622 @@
+{
+  "Version": "v0.01",
+  "Combat": {
+    "KillAura": {
+      "Enabled": false,
+      "Settings": [
+        {
+          "Name": "Mode",
+          "Value": "Single"
+        },
+        {
+          "Name": "Priority",
+          "Value": "Range"
+        },
+        {
+          "Name": "State",
+          "Value": "Pre"
+        },
+        {
+          "Name": "Aim vector",
+          "Value": "Closest"
+        },
+        {
+          "Name": "Auto-block Mode",
+          "Value": "None"
+        },
+        {
+          "Name": "Range",
+          "Value": 3.50
+        },
+        {
+          "Name": "Hit chance",
+          "Value": 100.0
+        },
+        {
+          "Name": "Min CPS",
+          "Value": 10.0
+        },
+        {
+          "Name": "Max CPS",
+          "Value": 11.0
+        },
+        {
+          "Name": "No swing",
+          "Value": false
+        },
+        {
+          "Name": "Players",
+          "Value": true
+        },
+        {
+          "Name": "Animals",
+          "Value": false
+        },
+        {
+          "Name": "Monsters",
+          "Value": false
+        },
+        {
+          "Name": "Invisible",
+          "Value": false
+        },
+        {
+          "Name": "Silent",
+          "Value": true
+        },
+        {
+          "Name": "Through walls",
+          "Value": true
+        }
+      ]
+    },
+    "NoClickDelay": {
+      "Enabled": true,
+      "Settings": []
+    },
+    "KeepSprint": {
+      "Enabled": false,
+      "Settings": []
+    },
+    "Velocity": {
+      "Enabled": true,
+      "Settings": [
+        {
+          "Name": "Mode",
+          "Value": "Simple"
+        },
+        {
+          "Name": "Horizontal",
+          "Value": 0.0
+        },
+        {
+          "Name": "Vertical",
+          "Value": 0.0
+        }
+      ]
+    }
+  },
+  "Movement": {
+    "NoSlowdown": {
+      "Enabled": true,
+      "Settings": [
+        {
+          "Name": "Mode",
+          "Value": "Vanilla"
+        },
+        {
+          "Name": "Swords",
+          "Value": true
+        },
+        {
+          "Name": "Sword forward",
+          "Value": 1.0
+        },
+        {
+          "Name": "Sword strafe",
+          "Value": 1.0
+        },
+        {
+          "Name": "Food",
+          "Value": false
+        },
+        {
+          "Name": "Food forward",
+          "Value": 0.0
+        },
+        {
+          "Name": "Food strafe",
+          "Value": 0.0
+        },
+        {
+          "Name": "Bow",
+          "Value": false
+        },
+        {
+          "Name": "Bow forward",
+          "Value": 0.0
+        },
+        {
+          "Name": "Bow strafe",
+          "Value": 0.0
+        }
+      ]
+    },
+    "Speed": {
+      "Enabled": false,
+      "Settings": [
+        {
+          "Name": "Mode",
+          "Value": "Vulcan"
+        },
+        {
+          "Name": "Verus mode",
+          "Value": "Y-Port"
+        },
+        {
+          "Name": "Vulcan mode",
+          "Value": "Fast-fall"
+        }
+      ]
+    },
+    "Step": {
+      "Enabled": false,
+      "Settings": []
+    },
+    "Fly": {
+      "Enabled": false,
+      "Settings": [
+        {
+          "Name": "Mode",
+          "Value": "Vanilla"
+        }
+      ]
+    },
+    "LongJump": {
+      "Enabled": false,
+      "Settings": [
+        {
+          "Name": "Mode",
+          "Value": "Hypixel keep-y"
+        }
+      ]
+    },
+    "Sprint": {
+      "Enabled": true,
+      "Settings": []
+    }
+  },
+  "Render": {
+    "SwingAnimations": {
+      "Enabled": false,
+      "Settings": [
+        {
+          "Name": "Swing speed",
+          "Value": 1.2
+        },
+        {
+          "Name": "Smooth",
+          "Value": true
+        }
+      ]
+    },
+    "Fullbright": {
+      "Enabled": false,
+      "Settings": [
+        {
+          "Name": "Mode",
+          "Value": "Gamma"
+        },
+        {
+          "Name": "Brightness",
+          "Value": 10.0
+        }
+      ]
+    },
+    "NoHurtCam": {
+      "Enabled": false,
+      "Settings": []
+    },
+    "Weather": {
+      "Enabled": false,
+      "Settings": [
+        {
+          "Name": "Time",
+          "Value": 8640.0
+        }
+      ]
+    },
+    "BlockAnimations": {
+      "Enabled": true,
+      "Settings": [
+        {
+          "Name": "Block style",
+          "Value": "Spin"
+        },
+        {
+          "Name": "Spoof",
+          "Value": true
+        }
+      ]
+    },
+    "ESP": {
+      "Enabled": true,
+      "Settings": []
+    }
+  },
+  "Player": {
+    "NoFall": {
+      "Enabled": true,
+      "Settings": [
+        {
+          "Name": "Mode",
+          "Value": "Vercan"
+        }
+      ]
+    },
+    "AutoTool": {
+      "Enabled": true,
+      "Settings": []
+    },
+    "Scaffold": {
+      "Enabled": false,
+      "Settings": [
+        {
+          "Name": "Rotations",
+          "Value": "GodBridge"
+        },
+        {
+          "Name": "Swap",
+          "Value": "Switch"
+        },
+        {
+          "Name": "Tower",
+          "Value": "VulcanLow"
+        },
+        {
+          "Name": "Sprint",
+          "Value": "Cancel"
+        }
+      ]
+    },
+    "InventoryManager": {
+      "Enabled": false,
+      "Settings": [
+        {
+          "Name": "Minimum delay",
+          "Value": 201.0
+        },
+        {
+          "Name": "Maximum delay",
+          "Value": 122.0
+        },
+        {
+          "Name": "Inventory only",
+          "Value": true
+        },
+        {
+          "Name": "Start delay",
+          "Value": 100.0
+        },
+        {
+          "Name": "Keep sword",
+          "Value": true
+        },
+        {
+          "Name": "Keep pickaxe",
+          "Value": true
+        },
+        {
+          "Name": "Keep axe",
+          "Value": true
+        },
+        {
+          "Name": "Keep shovel",
+          "Value": false
+        },
+        {
+          "Name": "Keep bow",
+          "Value": false
+        },
+        {
+          "Name": "Keep food",
+          "Value": true
+        },
+        {
+          "Name": "Sword slot",
+          "Value": 1.0
+        },
+        {
+          "Name": "Pickaxe slot",
+          "Value": 5.0
+        },
+        {
+          "Name": "Axe slot",
+          "Value": 4.0
+        },
+        {
+          "Name": "Block slot",
+          "Value": 2.0
+        },
+        {
+          "Name": "Shovel slot",
+          "Value": 4.0
+        },
+        {
+          "Name": "Food slot",
+          "Value": 3.0
+        },
+        {
+          "Name": "Bow slot",
+          "Value": 9.0
+        },
+        {
+          "Name": "Keep X blocks",
+          "Value": 3.0
+        },
+        {
+          "Name": "Keep X throwables",
+          "Value": 1.0
+        }
+      ]
+    },
+    "FastPlace": {
+      "Enabled": false,
+      "Settings": [
+        {
+          "Name": "Delay",
+          "Value": 0.0
+        }
+      ]
+    },
+    "Timer": {
+      "Enabled": false,
+      "Settings": [
+        {
+          "Name": "Timer speed",
+          "Value": 1.0
+        }
+      ]
+    }
+  },
+  "Misc": {
+    "AutoGG": {
+      "Enabled": false,
+      "Settings": []
+    },
+    "Alerts": {
+      "Enabled": true,
+      "Settings": [
+        {
+          "Name": "Swords",
+          "Value": true
+        },
+        {
+          "Name": "Armor",
+          "Value": true
+        },
+        {
+          "Name": "Bows",
+          "Value": true
+        },
+        {
+          "Name": "Ender pearls",
+          "Value": true
+        },
+        {
+          "Name": "Speed effects",
+          "Value": true
+        },
+        {
+          "Name": "Jump effects",
+          "Value": true
+        },
+        {
+          "Name": "Invisibility effects",
+          "Value": true
+        }
+      ]
+    },
+    "Disabler": {
+      "Enabled": false,
+      "Settings": [
+        {
+          "Name": "Mode",
+          "Value": "Custom"
+        },
+        {
+          "Name": "Cancel C0F",
+          "Value": false
+        },
+        {
+          "Name": "Cancel C00",
+          "Value": false
+        },
+        {
+          "Name": "Cancel C0B",
+          "Value": true
+        },
+        {
+          "Name": "Cancel C0C",
+          "Value": false
+        }
+      ]
+    },
+    "Blink": {
+      "Enabled": false,
+      "Settings": []
+    },
+    "HitSound": {
+      "Enabled": false,
+      "Settings": [
+        {
+          "Name": "Sound Style",
+          "Value": "Call of Duty"
+        }
+      ]
+    }
+  },
+  "Client": {
+    "Theme": {
+      "Enabled": false,
+      "Settings": [
+        {
+          "Name": "Theme",
+          "Value": "Clear skies"
+        },
+        {
+          "Name": "Shader Iterations",
+          "Value": 2.0
+        },
+        {
+          "Name": "Shader Offset",
+          "Value": 2.0
+        },
+        {
+          "Name": "Shader Multiplier",
+          "Value": 0.86
+        }
+      ]
+    },
+    "TargetHUD": {
+      "Enabled": true,
+      "Settings": [
+        {
+          "Name": "Design",
+          "Value": "Modern"
+        }
+      ]
+    },
+    "ClickGUI": {
+      "Enabled": false,
+      "Settings": [
+        {
+          "Name": "Design",
+          "Value": "Modern"
+        },
+        {
+          "Name": "Pause singleplayer",
+          "Value": false
+        }
+      ]
+    },
+    "Watermark": {
+      "Enabled": true,
+      "Settings": [
+        {
+          "Name": "Design",
+          "Value": "Modern"
+        },
+        {
+          "Name": "X offset",
+          "Value": 5.0
+        },
+        {
+          "Name": "Y offset",
+          "Value": 5.0
+        },
+        {
+          "Name": "Show version",
+          "Value": true
+        },
+        {
+          "Name": "Use custom color",
+          "Value": false
+        },
+        {
+          "Name": "Custom color",
+          "Red": 255,
+          "Green": 3,
+          "Blue": 3,
+          "Alpha": 255
+        }
+      ]
+    },
+    "ModuleList": {
+      "Enabled": true,
+      "Settings": [
+        {
+          "Name": "Shown modules",
+          "Value": "Useful"
+        },
+        {
+          "Name": "X offset",
+          "Value": 6.0
+        },
+        {
+          "Name": "Y offset",
+          "Value": 5.0
+        },
+        {
+          "Name": "Module color",
+          "Value": "Follow theme"
+        },
+        {
+          "Name": "Static color",
+          "Red": 255,
+          "Green": 255,
+          "Blue": 255,
+          "Alpha": 255
+        },
+        {
+          "Name": "Gradient color 1",
+          "Red": 0,
+          "Green": 0,
+          "Blue": 255,
+          "Alpha": 255
+        },
+        {
+          "Name": "Gradient color 2",
+          "Red": 255,
+          "Green": 255,
+          "Blue": 255,
+          "Alpha": 255
+        },
+        {
+          "Name": "Font",
+          "Value": "productsans-Regular"
+        },
+        {
+          "Name": "Font size",
+          "Value": 21.0
+        },
+        {
+          "Name": "Font shadow",
+          "Value": false
+        },
+        {
+          "Name": "Background",
+          "Value": true
+        },
+        {
+          "Name": "Background Opacity",
+          "Value": 109.0
+        },
+        {
+          "Name": "Suffix",
+          "Value": true
+        },
+        {
+          "Name": "Suffix separator",
+          "Value": "-"
+        },
+        {
+          "Name": "Suffix decoration",
+          "Value": "none"
+        },
+        {
+          "Name": "Suffix color",
+          "Value": "White"
+        },
+        {
+          "Name": "Name spacing",
+          "Value": false
+        },
+        {
+          "Name": "Case",
+          "Value": "Regular"
+        }
+      ]
+    }
+  }
+}
